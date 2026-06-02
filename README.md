@@ -59,7 +59,7 @@ The objective is to transform historical retail insights into actionable predict
 A full walkthrough of the project, including methodology, analysis, and key insights:
 
 Watch the Demo video below 
-[![Project Demo](https://i.ibb.co/BVRY02kV/project3titlescreenshot.png)](./CapstonePjoect3Video.mp4)
+[![Project Demo](https://i.ibb.co/BVRY02kV/project3titlescreenshot.png)](./CapstoneProject3Video.mp4)
 [Read Presentation](https://pitch.com/v/optimizing-retail-performance-sales-growth-prediction-e6f777)
 
 ---
